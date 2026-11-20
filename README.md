@@ -63,8 +63,8 @@ The patient or a family member uploads a photo or PDF of their discharge summary
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/ByteForge1729/Anthropic_Hackathon.git
-cd Anthropic_Hackathon
+git clone https://github.com/ByteForge1729/post-discharge-companion.git
+cd post-discharge-companion
 
 # 2. Install dependencies
 npm install
@@ -107,6 +107,5 @@ This project is deliberately constrained:
 
 ## Team
 
-Tirth Sheth - 25B3915
-
-Srinath Sridhar - 25B1251
+- Tirth Sheth
+- Srinath Sridhar
