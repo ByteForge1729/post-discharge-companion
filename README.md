@@ -6,6 +6,10 @@ A web app that transforms hospital discharge summaries — written in clinical j
 
 **Upload a discharge summary → get a plain-language breakdown in seconds.**
 
+![Recovery dashboard with plan overview, next dose, symptoms to watch and next follow-up](docs/assets/dashboard.png)
+
+**Status:** 24-hour hackathon prototype. Not validated for clinical use.
+
 ---
 
 ## The Problem
